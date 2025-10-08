@@ -5,7 +5,7 @@
 ------------------------------------------------------
 
 ------------------------------------------------------
--- 🟢 EASY LEVEL TASKS
+--  EASY LEVEL TASKS
 ------------------------------------------------------
 
 -- 1. Define BULK INSERT
@@ -53,7 +53,7 @@ CREATE TABLE Orders (
 );
 
 ------------------------------------------------------
--- 🟠 MEDIUM LEVEL TASKS
+--  MEDIUM LEVEL TASKS
 ------------------------------------------------------
 
 -- 1. BULK INSERT example
@@ -84,7 +84,7 @@ FROM Products;
 -- 7. FOREIGN KEY purpose: maintains referential integrity.
 
 ------------------------------------------------------
--- 🔴 HARD LEVEL TASKS
+--  HARD LEVEL TASKS
 ------------------------------------------------------
 
 -- 1. Customers table with CHECK (Age >= 18)
